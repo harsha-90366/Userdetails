@@ -1,0 +1,35 @@
+.App{
+  text-align: left;
+}
+.maincontent{
+  margin-left: 25px;
+}
+nav{
+  display: flex;
+  align-items: left;
+  min-height: 10vh;
+  background: rgb(209, 209, 214);
+  color: rgb(67, 23, 187);
+  padding: 5px;
+  list-style: none;
+}
+.bts{
+align-items: center;
+list-style: none;
+}
+:local(.container){
+  background-color: teal;
+}
+h3{
+  
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+.bt2{
+  margin: 10px ;
+}
+.bt3{
+  background-color: blue;
+  color: white;
+}
